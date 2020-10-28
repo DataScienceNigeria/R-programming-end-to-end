@@ -523,6 +523,6 @@ output:
 
 ---
 
-I hope you enjoy R Programming End to End Using Tidyverse Sample Exam. For more updates in `R`, `Python`, and `Excel` for data science, you can consider to follow me on [Twitter](https://www.twitter.com/gbganalyst){target="_blank"} and [Linkedin](https://www.linkedin.com/in/ezekiel-ogundepo/){target="_blank"}. The Github repository for this [AIBootcamp 2020](https://www.datasciencenigeria.org/2020-bootcamp/){target="_blank"} R programming session  can be found [here](https://github.com/gbganalyst/R-programming-end-to-end){target="_blank"}.
+I hope you enjoy R Programming End to End Using Tidyverse Sample Exam Solution. For more updates in data science and artificial intelligence, you can follow Data Science Nigeria on  [Twitter](https://twitter.com/DataScienceNIG){target="_blank"} and [Linkedin](https://www.linkedin.com/company/datasciencenigeria/){target="_blank"}. The Github repository for this [AIBootcamp 2020](https://www.datasciencenigeria.org/2020-bootcamp/){target="_blank"} R programming session  can be found [here](https://github.com/DataScienceNigeria/R-programming-end-to-end){target="_blank"}.
 
 ![](https://media2.giphy.com/media/14tCeoSGpXCWrQvixk/giphy.gif)  
